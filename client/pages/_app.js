@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }) {
   });
 
   return (
-    <div className="overflow-hidden dark:bg-[#0f0f0f] light:bg-white min-h-screen">
+    <div className="overflow-hidden bg-white min-h-screen">
       <Head>
         <title>RGBlobs</title>
         <meta name="description" content="RGBlobs"></meta>
