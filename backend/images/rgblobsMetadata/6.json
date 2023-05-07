@@ -1,0 +1,11 @@
+{
+    "description": "Cute RGB Blob! This little one is white.",
+    "image": "https://ipfs.io/ipfs/QmVkkDucDw61h3EpTyfzfRGgyGu5p3drMm8LhtyjWkfNqX/6.png",
+    "name": "White Blob",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "White"
+        }
+    ]
+}

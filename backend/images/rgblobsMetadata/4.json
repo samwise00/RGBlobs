@@ -1,0 +1,11 @@
+{
+    "description": "Cute RGB Blob! This little one is magenta.",
+    "image": "https://ipfs.io/ipfs/QmVkkDucDw61h3EpTyfzfRGgyGu5p3drMm8LhtyjWkfNqX/4.png",
+    "name": "Magenta Blob",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Magenta"
+        }
+    ]
+}

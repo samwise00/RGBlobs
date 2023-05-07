@@ -1,0 +1,11 @@
+{
+    "description": "Cute RGB Blob! This little one is red.",
+    "image": "https://ipfs.io/ipfs/QmVkkDucDw61h3EpTyfzfRGgyGu5p3drMm8LhtyjWkfNqX/0.png",
+    "name": "Red Blob",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Red"
+        }
+    ]
+}
